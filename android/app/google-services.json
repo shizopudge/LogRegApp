@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838275935886",
+    "project_id": "log-reg-app2",
+    "storage_bucket": "log-reg-app2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838275935886:android:a5d6a3b4e28e25d44d63df",
+        "android_client_info": {
+          "package_name": "com.logregapp2.logreg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838275935886-sbr4mltav6b7jqi4manrfte2nbgaf05j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzYyYDZV7seNGq58CCUdd5ZLOVrU_jdvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838275935886-sbr4mltav6b7jqi4manrfte2nbgaf05j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
